@@ -1,0 +1,19 @@
+<h3>Dudas? Por favor, contáctenos:</h3>
+        <fieldset>
+            <legend>Datos de Contacto</legend>
+            <form action="contacto.html">
+              <label>Nombre:</label>
+              <input type="text" placeholder="Ingresar Nombre" />
+              <label>Apellido:</label>
+              <input type="text" placeholder="Ingresar Apellido" />
+              <br />
+              <br />
+              <label>Correo:</label>
+              <input type="email" placeholder="Ingrese Email" />
+              <br />
+              <br />
+              <label>Deje sus Comentarios:</label>
+              <textarea></textarea>
+              <button>Enviar</button>
+            </form>
+           </fieldset>
